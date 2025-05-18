@@ -1,5 +1,5 @@
 # MiPrimerRepo
 ## Bienvenido
-Esta es la descripcion de mi primer repo!
+Esta es la descripcion de mi primer repo
 
 Autor : Giovanni Sartorio
